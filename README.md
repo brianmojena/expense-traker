@@ -14,3 +14,8 @@ Esta app permite administrar tus gastos de una manera fácil e intuitiva!
 
 **Backend:** Python, SQLite
 
+
+## Instalación
+
+Para instalar el proyecto solo baje los archivos del Codespaces, y ejecute el archivo app.py en su ordenador.
+    
